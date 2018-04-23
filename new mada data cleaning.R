@@ -1,3 +1,5 @@
+#Test line
+
 ## Data cleaning of new Madagascar data set, received April 2018
 ## Set working directory
 setwd("D:/TB and HIV in Madagascar/New Madagascar data")
